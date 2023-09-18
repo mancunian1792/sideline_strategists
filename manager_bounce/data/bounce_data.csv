@@ -1,0 +1,329 @@
+name_new,name_old,home_wins_new,home_wins_old,away_wins_new,away_wins_old,home_draws_new,home_draws_old,away_draws_new,away_draws_old,home_loss_new,home_loss_old,away_loss_new,away_loss_old,team_old,team_new,league,new_manager_type,old_manager_type,start_date_new,start_date_old,wins_new,wins_old,draws_new,draws_old,loss_new,loss_old,first_bounce_effect,first_bounce_cause,match_location,year,bounce_effect,bounce_value
+David Gallego,Quique Flores,0,0,1,0,0,0,0,0,0,0,0,1,Espanyol,Espanyol,LALIGA,INTERIM,PERMANENT,2018-04-22,2018-04-15,1,0,0,0,0,1,WIN,LOSS,AWAY,2018,True,Bounce
+Antonio Clavero,David Gallego,1,0,0,0,0,1,0,0,0,0,0,0,Espanyol,Espanyol,LALIGA,INTERIM,INTERIM,2018-05-13,2018-04-28,1,0,0,1,0,0,WIN,DRAW,HOME,2018,True,Bounce
+Pablo Machín,David Gallego,0,0,0,0,0,0,0,0,1,1,0,0,Espanyol,Espanyol,LALIGA,PERMANENT,PERMANENT,2019-10-20,2019-09-29,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Abelardo Fernández,Pablo Machín,0,0,0,0,1,1,0,0,0,0,0,0,Espanyol,Espanyol,LALIGA,PERMANENT,PERMANENT,2020-01-04,2019-12-15,0,0,1,1,0,0,DRAW,DRAW,HOME,2020,False,No-Bounce
+Francisco Rufete,Abelardo Fernández,0,0,0,0,0,0,0,0,1,1,0,0,Espanyol,Espanyol,LALIGA,PERMANENT,PERMANENT,2020-06-28,2020-06-20,0,0,0,0,1,1,LOSS,LOSS,HOME,2020,False,No-Bounce
+Lluis Blanco,Vicente Moreno,0,0,0,0,1,1,0,0,0,0,0,0,Espanyol,Espanyol,LALIGA,INTERIM,PERMANENT,2022-05-14,2022-05-08,0,0,1,1,0,0,DRAW,DRAW,HOME,2022,False,No-Bounce
+Luis García,Diego Martínez,0,0,0,0,0,0,0,0,1,1,0,0,Espanyol,Espanyol,LALIGA,PERMANENT,PERMANENT,2023-04-08,2023-03-18,0,0,0,0,1,1,LOSS,LOSS,HOME,2023,False,No-Bounce
+Luis Cembranos,Mauricio Pellegrino,1,0,0,0,0,0,0,0,0,1,0,0,Leganés,Leganés,LALIGA,INTERIM,PERMANENT,2019-10-26,2019-10-05,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Javier Aguirre,Luis Cembranos,0,0,0,0,0,0,1,0,0,0,0,1,Leganés,Leganés,LALIGA,PERMANENT,INTERIM,2019-11-08,2019-10-30,0,0,1,0,0,1,DRAW,LOSS,AWAY,2019,True,Bounce
+Fabio Grosso,Eugenio Corini,0,0,0,0,0,0,0,0,1,1,0,0,Brescia,Brescia,SERIE_A,INTERIM,PERMANENT,2019-11-09,2019-10-29,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Eugenio Corini,Fabio Grosso,0,0,1,0,0,0,0,0,0,0,0,1,Brescia,Brescia,SERIE_A,PERMANENT,INTERIM,2019-12-08,2019-11-24,1,0,0,0,0,1,WIN,LOSS,AWAY,2019,True,Bounce
+Diego López,Eugenio Corini,0,0,0,0,1,0,0,0,0,1,0,0,Brescia,Brescia,SERIE_A,PERMANENT,PERMANENT,2020-02-09,2020-01-24,0,0,1,0,0,1,DRAW,LOSS,HOME,2020,True,Bounce
+Fabrizio Lorieri,Luca Gotti,0,0,0,0,0,0,0,0,1,1,0,0,Spezia,Spezia,SERIE_A,INTERIM,PERMANENT,2023-02-19,2023-02-05,0,0,0,0,1,1,LOSS,LOSS,HOME,2023,False,No-Bounce
+Leonardo Semplici,Fabrizio Lorieri,0,0,0,0,0,0,1,1,0,0,0,0,Spezia,Spezia,SERIE_A,PERMANENT,INTERIM,2023-02-26,2023-02-11,0,0,1,1,0,0,DRAW,DRAW,AWAY,2023,False,No-Bounce
+Michael Jackson,Sean Dyche,0,1,0,0,0,0,1,0,0,0,0,0,Burnley,Burnley,EPL,PERMANENT,PERMANENT,2022-04-17,2022-04-06,0,1,1,0,0,0,DRAW,WIN,AWAY,2022,False,No-Bounce
+Javier Aguirre,Luis García,0,0,0,0,0,0,0,0,0,1,1,0,Mallorca,Mallorca,LALIGA,PERMANENT,PERMANENT,2022-04-02,2022-03-14,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Walter Zenga,Davide  Nicola,0,0,0,0,0,0,0,0,0,0,1,1,Crotone,Crotone,SERIE_A,PERMANENT,PERMANENT,2017-12-10,2017-11-26,0,0,0,0,1,1,LOSS,LOSS,AWAY,2017,False,No-Bounce
+Serse Cosmi,Giovanni Stroppa,0,0,0,0,0,0,0,0,0,0,1,1,Crotone,Crotone,SERIE_A,PERMANENT,PERMANENT,2021-03-03,2021-02-22,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+Mark Hudson,David Wagner,0,0,0,0,0,0,0,0,1,1,0,0,Huddersfield,Huddersfield,EPL,INTERIM,PERMANENT,2019-01-20,2019-01-02,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Jan Siewert,Mark Hudson,0,0,0,0,0,0,0,1,1,0,0,0,Huddersfield,Huddersfield,EPL,PERMANENT,INTERIM,2019-01-29,2019-01-12,0,0,0,1,1,0,LOSS,DRAW,HOME,2019,False,No-Bounce
+Sabri Lamouchi,Christian Gourcuff,0,0,0,1,0,0,0,0,0,0,1,0,Rennes,Rennes,LIGUE_1,PERMANENT,PERMANENT,2017-11-18,2017-10-28,0,1,0,0,1,0,LOSS,WIN,AWAY,2017,False,No-Bounce
+Julien Stéphan,Sabri Lamouchi,0,0,1,0,0,0,0,1,0,0,0,0,Rennes,Rennes,LIGUE_1,PERMANENT,PERMANENT,2018-12-05,2018-11-25,1,0,0,1,0,0,WIN,DRAW,AWAY,2018,True,Bounce
+Philippe Bizeul,Julien Stéphan,0,0,0,0,0,0,0,0,0,0,1,1,Rennes,Rennes,LIGUE_1,INTERIM,PERMANENT,2021-03-03,2021-02-21,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+Bruno Génésio,Philippe Bizeul,0,0,0,0,0,0,0,0,0,1,1,0,Rennes,Rennes,LIGUE_1,PERMANENT,INTERIM,2021-03-10,2021-02-26,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+Siniša Mihajlović,Filippo Inzaghi,0,0,1,0,0,0,0,1,0,0,0,0,Bologna,Bologna,SERIE_A,PERMANENT,PERMANENT,2019-02-03,2019-01-20,1,0,0,1,0,0,WIN,DRAW,AWAY,2019,True,Bounce
+Luca Vigiani,Siniša Mihajlović,1,0,0,0,0,1,0,0,0,0,0,0,Bologna,Bologna,SERIE_A,INTERIM,PERMANENT,2022-09-11,2022-09-01,1,0,0,1,0,0,WIN,DRAW,HOME,2022,True,Bounce
+Thiago Motta,Luca Vigiani,0,0,0,0,0,0,0,1,1,0,0,0,Bologna,Bologna,SERIE_A,PERMANENT,INTERIM,2022-09-17,2022-09-04,0,0,0,1,1,0,LOSS,DRAW,HOME,2022,False,No-Bounce
+Michel Padovani,Jean-Marc Furlan,0,0,0,0,1,1,0,0,0,0,0,0,Auxerre,Auxerre,LIGUE_1,INTERIM,PERMANENT,2022-10-16,2022-10-02,0,0,1,1,0,0,DRAW,DRAW,HOME,2022,False,No-Bounce
+Christophe Pélissier,Michel Padovani,1,0,0,0,0,1,0,0,0,0,0,0,Auxerre,Auxerre,LIGUE_1,PERMANENT,INTERIM,2022-10-30,2022-10-16,1,0,0,1,0,0,WIN,DRAW,HOME,2022,True,Bounce
+Jürgen Klinsmann,Ante Čović,0,0,0,0,0,0,0,0,1,1,0,0,Hertha BSC,Hertha BSC,BUNDESLIGA,PERMANENT,PERMANENT,2019-11-30,2019-11-09,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Alexander Nouri,Jürgen Klinsmann,0,0,1,0,0,1,0,0,0,0,0,0,Hertha BSC,Hertha BSC,BUNDESLIGA,INTERIM,PERMANENT,2020-02-15,2020-01-31,1,0,0,1,0,0,WIN,DRAW,AWAY,2020,True,Bounce
+Bruno Labbadia,Alexander Nouri,0,0,1,0,0,0,0,1,0,0,0,0,Hertha BSC,Hertha BSC,BUNDESLIGA,PERMANENT,INTERIM,2020-05-16,2020-02-28,1,0,0,1,0,0,WIN,DRAW,AWAY,2020,True,Bounce
+Pál Dárdai,Bruno Labbadia,0,1,0,0,0,0,0,0,0,0,1,0,Hertha BSC,Hertha BSC,BUNDESLIGA,PERMANENT,PERMANENT,2021-01-30,2021-01-02,0,1,0,0,1,0,LOSS,WIN,AWAY,2021,False,No-Bounce
+Tayfun Korkut,Pál Dárdai,0,0,0,0,0,0,1,0,0,0,0,1,Hertha BSC,Hertha BSC,BUNDESLIGA,PERMANENT,PERMANENT,2021-12-05,2021-11-20,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Felix Magath,Tayfun Korkut,1,0,0,0,0,0,0,0,0,1,0,0,Hertha BSC,Hertha BSC,BUNDESLIGA,PERMANENT,PERMANENT,2022-03-19,2022-03-05,1,0,0,0,0,1,WIN,LOSS,HOME,2022,True,Bounce
+Pál Dárdai,Sandro Schwarz,0,0,0,0,0,0,0,0,1,1,0,0,Hertha BSC,Hertha BSC,BUNDESLIGA,PERMANENT,PERMANENT,2023-04-22,2023-04-08,0,0,0,0,1,1,LOSS,LOSS,HOME,2023,False,No-Bounce
+Miguel Cardoso,Antonio Mohamed,0,0,0,0,0,0,0,1,0,0,1,0,Celta Vigo,Celta Vigo,LALIGA,PERMANENT,PERMANENT,2018-11-26,2018-11-04,0,0,0,1,1,0,LOSS,DRAW,AWAY,2018,False,No-Bounce
+Fran Escribá,Miguel Cardoso,0,0,0,0,0,0,0,1,1,0,0,0,Celta Vigo,Celta Vigo,LALIGA,PERMANENT,PERMANENT,2019-03-10,2019-02-23,0,0,0,1,1,0,LOSS,DRAW,HOME,2019,False,No-Bounce
+Óscar García,Fran Escribá,0,0,0,0,0,0,0,0,0,0,1,1,Celta Vigo,Celta Vigo,LALIGA,PERMANENT,PERMANENT,2019-11-09,2019-10-30,0,0,0,0,1,1,LOSS,LOSS,AWAY,2019,False,No-Bounce
+Eduardo Coudet,Óscar García,0,0,0,0,0,0,0,0,0,1,1,0,Celta Vigo,Celta Vigo,LALIGA,PERMANENT,PERMANENT,2020-11-21,2020-11-01,0,0,0,0,1,1,LOSS,LOSS,AWAY,2020,False,No-Bounce
+Carlos Carvalhal,Eduardo Coudet,0,0,0,0,0,1,0,0,1,0,0,0,Celta Vigo,Celta Vigo,LALIGA,PERMANENT,PERMANENT,2022-11-05,2022-10-24,0,0,0,1,1,0,LOSS,DRAW,HOME,2022,False,No-Bounce
+Paul Heckingbottom,Chris Wilder,0,1,0,0,0,0,0,0,0,0,1,0,Sheffield Utd,Sheffield Utd,EPL,PERMANENT,PERMANENT,2021-03-14,2021-03-03,0,1,0,0,1,0,LOSS,WIN,AWAY,2021,False,No-Bounce
+Francisco,Leo Franco,0,0,0,0,0,1,0,0,1,0,0,0,Huesca,Huesca,LALIGA,PERMANENT,PERMANENT,2018-10-21,2018-09-30,0,0,0,1,1,0,LOSS,DRAW,HOME,2018,False,No-Bounce
+Pacheta,Michel,0,0,0,0,0,0,0,0,0,1,1,0,Huesca,Huesca,LALIGA,PERMANENT,PERMANENT,2021-01-20,2021-01-03,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+Davide Ballardini,Massimiliano Alvini,0,0,0,0,0,0,1,0,0,0,0,1,Cremonese,Cremonese,SERIE_A,PERMANENT,PERMANENT,2023-01-23,2023-01-09,0,0,1,0,0,1,DRAW,LOSS,AWAY,2023,True,Bounce
+Mark Hughes,Mauricio Pellegrino,0,0,0,0,0,1,0,0,0,0,1,0,Southampton,Southampton,EPL,PERMANENT,PERMANENT,2018-03-31,2018-03-03,0,0,0,1,1,0,LOSS,DRAW,AWAY,2018,False,No-Bounce
+Kelvin Davis,Mark Hughes,0,0,0,0,0,0,0,0,0,0,1,1,Southampton,Southampton,EPL,INTERIM,PERMANENT,2018-12-05,2018-11-24,0,0,0,0,1,1,LOSS,LOSS,AWAY,2018,False,No-Bounce
+Ralph Hasenhüttl,Kelvin Davis,0,0,0,0,0,1,0,0,0,0,1,0,Southampton,Southampton,EPL,PERMANENT,INTERIM,2018-12-08,2018-12-01,0,0,0,1,1,0,LOSS,DRAW,AWAY,2018,False,No-Bounce
+Nathan Jones,Ralph Hasenhüttl,0,0,0,0,0,0,0,0,0,0,1,1,Southampton,Southampton,EPL,PERMANENT,PERMANENT,2022-11-12,2022-10-29,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Rubén Sellés,Nathan Jones,0,0,1,0,0,0,0,0,0,0,0,1,Southampton,Southampton,EPL,PERMANENT,PERMANENT,2023-02-18,2023-02-04,1,0,0,0,0,1,WIN,LOSS,AWAY,2023,True,Bounce
+Gary Megson,Tony Pulis,0,0,0,0,0,0,1,0,0,0,0,1,West Brom,West Brom,EPL,INTERIM,PERMANENT,2017-11-25,2017-11-04,0,0,1,0,0,1,DRAW,LOSS,AWAY,2017,True,Bounce
+Alan Pardew,Gary Megson,0,0,0,0,1,0,0,1,0,0,0,0,West Brom,West Brom,EPL,PERMANENT,INTERIM,2017-12-02,2017-11-25,0,0,1,1,0,0,DRAW,DRAW,HOME,2017,False,No-Bounce
+Darren Moore,Alan Pardew,0,0,0,0,1,0,0,0,0,0,0,1,West Brom,West Brom,EPL,PERMANENT,PERMANENT,2018-04-07,2018-03-17,0,0,1,0,0,1,DRAW,LOSS,HOME,2018,True,Bounce
+Sam Allardyce,Slaven Bilić,0,0,0,0,0,0,0,0,1,0,0,1,West Brom,West Brom,EPL,PERMANENT,PERMANENT,2020-12-20,2020-12-12,0,0,0,0,1,1,LOSS,LOSS,HOME,2020,False,No-Bounce
+Steven Davis,Bruno Lage,0,0,0,0,0,0,0,0,0,1,1,0,Wolves,Wolves,EPL,PERMANENT,PERMANENT,2022-10-08,2022-09-17,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Lopetegui,Steven Davis,0,0,1,0,0,0,0,0,0,1,0,0,Wolves,Wolves,EPL,PERMANENT,PERMANENT,2022-12-26,2022-11-05,1,0,0,0,0,1,WIN,LOSS,AWAY,2022,True,Bounce
+Santiago Solari,Lopetegui,1,0,0,0,0,0,0,0,0,1,0,0,Real Madrid,Real Madrid,LALIGA,PERMANENT,PERMANENT,2018-11-03,2018-10-20,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Zinédine Zidane,Santiago Solari,1,0,0,0,0,0,0,0,0,1,0,0,Real Madrid,Real Madrid,LALIGA,PERMANENT,PERMANENT,2019-03-16,2019-03-02,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Mickaël Debéve,Pascal Dupraz,1,0,0,0,0,1,0,0,0,0,0,0,Toulouse,Toulouse,LIGUE_1,PERMANENT,PERMANENT,2018-01-27,2018-01-17,1,0,0,1,0,0,WIN,DRAW,HOME,2018,True,Bounce
+Antoine Kombouare,Alain Casanova,1,0,0,0,0,0,0,1,0,0,0,0,Toulouse,Toulouse,LIGUE_1,PERMANENT,PERMANENT,2019-10-19,2019-09-28,1,0,0,1,0,0,WIN,DRAW,HOME,2019,True,Bounce
+Denis Zanko,Antoine Kombouare,0,0,0,0,0,0,0,0,1,1,0,0,Toulouse,Toulouse,LIGUE_1,PERMANENT,PERMANENT,2020-01-11,2019-12-14,0,0,0,0,1,1,LOSS,LOSS,HOME,2020,False,No-Bounce
+Giuseppe Iachini,Aurelio Andreazzoli,1,0,0,0,0,0,0,0,0,1,0,0,Empoli,Empoli,SERIE_A,PERMANENT,PERMANENT,2018-11-11,2018-10-27,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Aurelio Andreazzoli,Giuseppe Iachini,1,0,0,0,0,1,0,0,0,0,0,0,Empoli,Empoli,SERIE_A,PERMANENT,PERMANENT,2019-03-17,2019-03-02,1,0,0,1,0,0,WIN,DRAW,HOME,2019,True,Bounce
+Michael Appleton,Craig Shakespeare,0,0,1,0,0,0,0,1,0,0,0,0,Leicester City,Leicester City,EPL,INTERIM,PERMANENT,2017-10-21,2017-09-30,1,0,0,1,0,0,WIN,DRAW,AWAY,2017,True,Bounce
+Claude Puel,Michael Appleton,1,0,0,0,0,1,0,0,0,0,0,0,Leicester City,Leicester City,EPL,PERMANENT,INTERIM,2017-10-29,2017-10-16,1,0,0,1,0,0,WIN,DRAW,HOME,2017,True,Bounce
+Michael Stowell,Claude Puel,1,0,0,0,0,0,0,0,0,0,0,1,Leicester City,Leicester City,EPL,INTERIM,PERMANENT,2019-02-26,2019-02-10,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Brendan Rodgers,Michael Stowell,0,0,0,0,0,0,0,0,0,1,1,0,Leicester City,Leicester City,EPL,PERMANENT,INTERIM,2019-03-03,2019-02-23,0,0,0,0,1,1,LOSS,LOSS,AWAY,2019,False,No-Bounce
+Adam Sadler,Brendan Rodgers,0,0,0,0,0,0,0,1,1,0,0,0,Leicester City,Leicester City,EPL,INTERIM,PERMANENT,2023-04-04,2023-03-18,0,0,0,1,1,0,LOSS,DRAW,HOME,2023,False,No-Bounce
+Dean Smith,Adam Sadler,0,0,0,0,0,0,0,0,0,1,1,0,Leicester City,Leicester City,EPL,PERMANENT,INTERIM,2023-04-15,2023-04-04,0,0,0,0,1,1,LOSS,LOSS,AWAY,2023,False,No-Bounce
+Davide Ballardini,Ivan Jurić,0,0,1,0,0,0,0,0,0,0,0,1,Genoa,Genoa,SERIE_A,PERMANENT,PERMANENT,2017-11-19,2017-10-29,1,0,0,0,0,1,WIN,LOSS,AWAY,2017,True,Bounce
+Ivan Jurić,Davide Ballardini,0,0,0,1,0,0,1,0,0,0,0,0,Genoa,Genoa,SERIE_A,PERMANENT,PERMANENT,2018-10-20,2018-09-30,0,1,1,0,0,0,DRAW,WIN,AWAY,2018,False,No-Bounce
+Cesare Prandelli,Ivan Jurić,0,0,0,0,1,1,0,0,0,0,0,0,Genoa,Genoa,SERIE_A,PERMANENT,PERMANENT,2018-12-09,2018-11-25,0,0,1,1,0,0,DRAW,DRAW,HOME,2018,False,No-Bounce
+Thiago Motta,Aurelio Andreazzoli,1,0,0,0,0,0,0,0,0,1,0,0,Genoa,Genoa,SERIE_A,PERMANENT,PERMANENT,2019-10-26,2019-10-05,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Davide  Nicola,Thiago Motta,1,0,0,0,0,0,0,0,0,1,0,0,Genoa,Genoa,SERIE_A,PERMANENT,PERMANENT,2020-01-05,2019-12-14,1,0,0,0,0,1,WIN,LOSS,HOME,2020,True,Bounce
+Davide Ballardini,Rolando Maran,0,0,1,0,0,1,0,0,0,0,0,0,Genoa,Genoa,SERIE_A,PERMANENT,PERMANENT,2020-12-23,2020-12-16,1,0,0,1,0,0,WIN,DRAW,AWAY,2020,True,Bounce
+Andriy Shevchenko,Davide Ballardini,0,0,0,0,0,1,0,0,1,0,0,0,Genoa,Genoa,SERIE_A,PERMANENT,PERMANENT,2021-11-21,2021-10-31,0,0,0,1,1,0,LOSS,DRAW,HOME,2021,False,No-Bounce
+Abdoulay Konko,Andriy Shevchenko,0,0,0,0,0,0,0,1,0,0,1,0,Genoa,Genoa,SERIE_A,INTERIM,PERMANENT,2022-01-17,2022-01-06,0,0,0,1,1,0,LOSS,DRAW,AWAY,2022,False,No-Bounce
+Alexander Blessin,Abdoulay Konko,0,0,0,0,1,0,0,0,0,1,0,0,Genoa,Genoa,SERIE_A,PERMANENT,INTERIM,2022-01-22,2022-01-09,0,0,1,0,0,1,DRAW,LOSS,HOME,2022,True,Bounce
+Lorenzo D'Anna,Rolando Maran,1,0,0,0,0,0,0,0,0,1,0,0,Chievo,Chievo,SERIE_A,PERMANENT,PERMANENT,2018-05-06,2018-04-22,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Giampiero Ventura,Lorenzo D'Anna,0,0,0,0,0,0,0,0,1,1,0,0,Chievo,Chievo,SERIE_A,INTERIM,PERMANENT,2018-10-21,2018-09-30,0,0,0,0,1,1,LOSS,LOSS,HOME,2018,False,No-Bounce
+Domenico Di Carlo,Giampiero Ventura,0,0,0,0,0,0,1,0,0,1,0,0,Chievo,Chievo,SERIE_A,PERMANENT,INTERIM,2018-11-25,2018-11-04,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Peter Stöger,Peter Bosz,0,0,1,0,0,0,0,1,0,0,0,0,Dortmund,Dortmund,BUNDESLIGA,PERMANENT,PERMANENT,2017-12-12,2017-12-02,1,0,0,1,0,0,WIN,DRAW,AWAY,2017,True,Bounce
+Edin Terzić,Lucien Favre,0,0,1,0,0,0,0,1,0,0,0,0,Dortmund,Dortmund,BUNDESLIGA,PERMANENT,PERMANENT,2020-12-15,2020-12-05,1,0,0,1,0,0,WIN,DRAW,AWAY,2020,True,Bounce
+Walter Mazzarri,Siniša Mihajlović,1,0,0,0,0,0,0,1,0,0,0,0,Torino,Torino,SERIE_A,PERMANENT,PERMANENT,2018-01-06,2017-12-23,1,0,0,1,0,0,WIN,DRAW,HOME,2018,True,Bounce
+Moreno Longo,Walter Mazzarri,0,0,0,0,0,0,0,0,1,1,0,0,Torino,Torino,SERIE_A,PERMANENT,PERMANENT,2020-02-08,2020-01-25,0,0,0,0,1,1,LOSS,LOSS,HOME,2020,False,No-Bounce
+Davide  Nicola,Marco Giampaolo,0,0,0,0,0,0,1,0,0,0,0,1,Torino,Torino,SERIE_A,PERMANENT,PERMANENT,2021-01-22,2021-01-09,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Davide Nicola,Davide  Nicola,0,1,0,0,1,0,0,0,0,0,0,0,Torino,Torino,SERIE_A,PERMANENT,PERMANENT,2021-04-03,2021-03-17,0,1,1,0,0,0,DRAW,WIN,HOME,2021,False,No-Bounce
+Willy Sagnol,Carlo Ancelotti,0,0,0,1,0,0,1,0,0,0,0,0,Bayern Munich,Bayern Munich,BUNDESLIGA,INTERIM,PERMANENT,2017-10-01,2017-09-19,0,1,1,0,0,0,DRAW,WIN,AWAY,2017,False,No-Bounce
+Jupp Heynckes,Willy Sagnol,1,0,0,0,0,1,0,0,0,0,0,0,Bayern Munich,Bayern Munich,BUNDESLIGA,PERMANENT,INTERIM,2017-10-14,2017-09-22,1,0,0,1,0,0,WIN,DRAW,HOME,2017,True,Bounce
+Hansi Flick,Niko Kovač,1,1,0,0,0,0,0,0,0,0,0,0,Bayern Munich,Bayern Munich,BUNDESLIGA,PERMANENT,PERMANENT,2019-11-09,2019-10-26,1,1,0,0,0,0,WIN,WIN,HOME,2019,False,No-Bounce
+Thomas Tuchel,Julian Nagelsmann,1,1,0,0,0,0,0,0,0,0,0,0,Bayern Munich,Bayern Munich,BUNDESLIGA,PERMANENT,PERMANENT,2023-04-01,2023-03-11,1,1,0,0,0,0,WIN,WIN,HOME,2023,False,No-Bounce
+Diego López,Massimo Rastelli,0,0,0,0,0,0,0,0,0,0,1,1,Cagliari,Cagliari,SERIE_A,PERMANENT,PERMANENT,2017-10-22,2017-10-01,0,0,0,0,1,1,LOSS,LOSS,AWAY,2017,False,No-Bounce
+Walter Zenga,Rolando Maran,0,0,0,0,0,0,0,0,0,1,1,0,Cagliari,Cagliari,SERIE_A,PERMANENT,PERMANENT,2020-06-20,2020-02-16,0,0,0,0,1,1,LOSS,LOSS,AWAY,2020,False,No-Bounce
+Leonardo Semplici,Eusebio Di Francesco,0,0,1,0,0,0,0,0,0,1,0,0,Cagliari,Cagliari,SERIE_A,PERMANENT,PERMANENT,2021-02-28,2021-02-14,1,0,0,0,0,1,WIN,LOSS,AWAY,2021,True,Bounce
+Walter Mazzarri,Leonardo Semplici,0,0,0,0,0,0,1,0,0,0,0,1,Cagliari,Cagliari,SERIE_A,PERMANENT,PERMANENT,2021-09-19,2021-08-29,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Alessandro Agostini,Walter Mazzarri,0,0,0,0,0,0,1,0,0,0,0,1,Cagliari,Cagliari,SERIE_A,INTERIM,PERMANENT,2022-05-08,2022-04-24,0,0,1,0,0,1,DRAW,LOSS,AWAY,2022,True,Bounce
+Will Still,Óscar García,0,0,0,0,0,0,1,1,0,0,0,0,Reims,Reims,LIGUE_1,PERMANENT,PERMANENT,2022-10-15,2022-10-02,0,0,1,1,0,0,DRAW,DRAW,AWAY,2022,False,No-Bounce
+Dean Smith,Daniel Farke,1,0,0,0,0,0,0,0,0,1,0,0,Norwich City,Norwich City,EPL,PERMANENT,PERMANENT,2021-11-20,2021-10-31,1,0,0,0,0,1,WIN,LOSS,HOME,2021,True,Bounce
+Rudi Garcia,Thiago Mendes,0,0,0,0,1,0,0,0,0,1,0,0,Lyon,Lyon,LIGUE_1,PERMANENT,PERMANENT,2019-10-19,2019-09-28,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Laurent Blanc,Peter Bosz,0,0,0,0,0,0,0,0,0,0,1,1,Lyon,Lyon,LIGUE_1,PERMANENT,PERMANENT,2022-10-16,2022-10-02,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Steven Gerrard,Dean Smith,1,0,0,0,0,0,0,0,0,1,0,0,Aston Villa,Aston Villa,EPL,PERMANENT,PERMANENT,2021-11-20,2021-10-31,1,0,0,0,0,1,WIN,LOSS,HOME,2021,True,Bounce
+Aaron Danks,Steven Gerrard,1,0,0,0,0,0,0,0,0,1,0,0,Aston Villa,Aston Villa,EPL,INTERIM,PERMANENT,2022-10-23,2022-10-16,1,0,0,0,0,1,WIN,LOSS,HOME,2022,True,Bounce
+Unai Emery,Aaron Danks,1,1,0,0,0,0,0,0,0,0,0,0,Aston Villa,Aston Villa,EPL,PERMANENT,INTERIM,2022-11-06,2022-10-23,1,1,0,0,0,0,WIN,WIN,HOME,2022,False,No-Bounce
+Bruno Grougi,Michel Der Zakarian,0,0,0,0,0,0,0,1,0,0,1,0,Brest,Brest,LIGUE_1,PERMANENT,PERMANENT,2022-10-16,2022-10-02,0,0,0,1,1,0,LOSS,DRAW,AWAY,2022,False,No-Bounce
+Eric Roy,Bruno Grougi,0,0,0,0,1,0,0,0,0,1,0,0,Brest,Brest,LIGUE_1,PERMANENT,PERMANENT,2023-01-11,2022-12-28,0,0,1,0,0,1,DRAW,LOSS,HOME,2023,True,Bounce
+Stephan Ruthenbeck,Peter Stöger,0,0,0,0,0,0,0,0,1,1,0,0,Köln,Köln,BUNDESLIGA,PERMANENT,PERMANENT,2017-12-10,2017-11-26,0,0,0,0,1,1,LOSS,LOSS,HOME,2017,False,No-Bounce
+Markus Gisdol,Achim Beierlorzer,0,0,0,0,0,0,0,0,0,0,1,1,Köln,Köln,BUNDESLIGA,PERMANENT,PERMANENT,2019-11-23,2019-11-03,0,0,0,0,1,1,LOSS,LOSS,AWAY,2019,False,No-Bounce
+Friedhelm Funkel,Markus Gisdol,0,0,0,0,0,0,0,0,0,0,1,1,Köln,Köln,BUNDESLIGA,PERMANENT,PERMANENT,2021-04-17,2021-04-03,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+Achim Beierlorzer,Sandro Schwarz,0,0,1,0,0,0,0,0,0,0,0,1,Mainz 05,Mainz 05,BUNDESLIGA,PERMANENT,INTERIM,2019-11-24,2019-11-02,1,0,0,0,0,1,WIN,LOSS,AWAY,2019,True,Bounce
+Jan-Moritz Lichte,Achim Beierlorzer,0,0,0,0,0,0,0,0,0,0,1,1,Mainz 05,Mainz 05,BUNDESLIGA,PERMANENT,PERMANENT,2020-10-02,2020-09-20,0,0,0,0,1,1,LOSS,LOSS,AWAY,2020,False,No-Bounce
+Jan Siewert,Jan-Moritz Lichte,0,0,0,0,0,0,0,1,0,0,1,0,Mainz 05,Mainz 05,BUNDESLIGA,INTERIM,PERMANENT,2021-01-03,2020-12-15,0,0,0,1,1,0,LOSS,DRAW,AWAY,2021,False,No-Bounce
+Bo Svensson,Jan Siewert,0,0,0,0,0,0,0,0,1,1,0,0,Mainz 05,Mainz 05,BUNDESLIGA,PERMANENT,INTERIM,2021-01-09,2020-12-19,0,0,0,0,1,1,LOSS,LOSS,HOME,2021,False,No-Bounce
+Eddie Niedzwiecki,Mark Hughes,0,0,0,0,0,0,0,0,0,0,1,1,Stoke City,Stoke City,EPL,INTERIM,PERMANENT,2018-01-15,2017-12-30,0,0,0,0,1,1,LOSS,LOSS,AWAY,2018,False,No-Bounce
+Paul Lambert,Eddie Niedzwiecki,1,0,0,0,0,0,0,0,0,1,0,0,Stoke City,Stoke City,EPL,PERMANENT,INTERIM,2018-01-20,2018-01-01,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Imanol Alguacil,Sacristán,0,0,0,0,0,0,1,0,0,0,0,1,Real Sociedad,Real Sociedad,LALIGA,PERMANENT,PERMANENT,2018-04-01,2018-03-11,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Imanol Alguacil,Asier Garitano,0,0,1,0,0,0,0,0,0,0,0,1,Real Sociedad,Real Sociedad,LALIGA,PERMANENT,PERMANENT,2019-01-06,2018-12-15,1,0,0,0,0,1,WIN,LOSS,AWAY,2019,True,Bounce
+Sergio,Álvaro Cervera,0,0,0,0,1,0,0,0,0,1,0,0,Cádiz,Cádiz,LALIGA,PERMANENT,PERMANENT,2022-01-18,2022-01-03,0,0,1,0,0,1,DRAW,LOSS,HOME,2022,True,Bounce
+Mauricio Pochettino,Thomas Tuchel,0,0,0,0,0,0,1,1,0,0,0,0,Paris S-G,Paris S-G,LIGUE_1,PERMANENT,PERMANENT,2021-01-06,2020-12-20,0,0,1,1,0,0,DRAW,DRAW,AWAY,2021,False,No-Bounce
+Uwe Rösler,Friedhelm Funkel,0,0,0,0,1,0,0,0,0,1,0,0,Düsseldorf,Düsseldorf,BUNDESLIGA,PERMANENT,PERMANENT,2020-02-01,2020-01-18,0,0,1,0,0,1,DRAW,LOSS,HOME,2020,True,Bounce
+Andrea Soncin,Paolo Zanetti,0,0,0,0,0,0,0,0,0,0,1,1,Venezia,Venezia,SERIE_A,INTERIM,PERMANENT,2022-05-01,2022-04-16,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Martin Schmidt,Manuel Baum,0,0,1,0,0,0,0,0,0,0,0,1,Augsburg,Augsburg,BUNDESLIGA,PERMANENT,PERMANENT,2019-04-14,2019-03-30,1,0,0,0,0,1,WIN,LOSS,AWAY,2019,True,Bounce
+Tobias Zellner,Martin Schmidt,0,0,0,0,0,0,0,0,1,1,0,0,Augsburg,Augsburg,BUNDESLIGA,INTERIM,PERMANENT,2020-05-16,2020-02-29,0,0,0,0,1,1,LOSS,LOSS,HOME,2020,False,No-Bounce
+Heiko Herrlich,Tobias Zellner,0,0,1,0,0,0,0,0,0,0,0,1,Augsburg,Augsburg,BUNDESLIGA,PERMANENT,INTERIM,2020-05-24,2020-03-08,1,0,0,0,0,1,WIN,LOSS,AWAY,2020,True,Bounce
+Markus Weinzierl,Heiko Herrlich,0,0,0,0,0,0,0,0,0,0,1,1,Augsburg,Augsburg,BUNDESLIGA,PERMANENT,PERMANENT,2021-05-07,2021-04-20,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+José Pinot,Philippe Hinschberger,0,0,0,0,0,0,0,0,0,0,1,1,Metz,Metz,LIGUE_1,INTERIM,PERMANENT,2017-10-29,2017-10-14,0,0,0,0,1,1,LOSS,LOSS,AWAY,2017,False,No-Bounce
+Frédéric Hantz,José Pinot,0,0,0,0,0,0,0,0,1,1,0,0,Metz,Metz,LIGUE_1,PERMANENT,INTERIM,2017-11-05,2017-10-21,0,0,0,0,1,1,LOSS,LOSS,HOME,2017,False,No-Bounce
+Vincent Hognon,Frédéric Antonetti,0,0,0,0,0,0,0,0,1,1,0,0,Metz,Metz,LIGUE_1,PERMANENT,INTERIM,2019-09-21,2019-08-30,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Frédéric Antonetti,Vincent Hognon,0,0,0,0,0,0,1,1,0,0,0,0,Metz,Metz,LIGUE_1,PERMANENT,PERMANENT,2020-10-18,2020-09-26,0,0,1,1,0,0,DRAW,DRAW,AWAY,2020,False,No-Bounce
+David Moyes,Slaven Bilić,0,0,0,0,0,0,0,1,0,0,1,0,West Ham,West Ham,EPL,PERMANENT,PERMANENT,2017-11-19,2017-10-28,0,0,0,1,1,0,LOSS,DRAW,AWAY,2017,False,No-Bounce
+David Moyes,Manuel Pellegrini,1,0,0,0,0,0,0,0,0,0,0,1,West Ham,West Ham,EPL,PERMANENT,PERMANENT,2020-01-01,2019-12-26,1,0,0,0,0,1,WIN,LOSS,HOME,2020,True,Bounce
+Pako Ayestarán,Manuel Márquez,0,0,0,0,0,0,0,0,0,0,1,1,Las Palmas,Las Palmas,LALIGA,PERMANENT,PERMANENT,2017-10-01,2017-09-20,0,0,0,0,1,1,LOSS,LOSS,AWAY,2017,False,No-Bounce
+Paquito Ortiz,Pako Ayestarán,1,0,0,0,0,0,0,0,0,1,0,0,Las Palmas,Las Palmas,LALIGA,INTERIM,PERMANENT,2017-12-03,2017-11-19,1,0,0,0,0,1,WIN,LOSS,HOME,2017,True,Bounce
+Paco,Paquito Ortiz,0,0,0,0,0,1,0,0,1,0,0,0,Las Palmas,Las Palmas,LALIGA,PERMANENT,INTERIM,2018-01-06,2017-12-17,0,0,0,1,1,0,LOSS,DRAW,HOME,2018,False,No-Bounce
+Julien Sablé,Óscar García,0,0,0,0,0,0,0,1,0,0,1,0,Saint-Étienne,Saint-Étienne,LIGUE_1,PERMANENT,PERMANENT,2017-11-17,2017-10-29,0,0,0,1,1,0,LOSS,DRAW,AWAY,2017,False,No-Bounce
+Jean-Louis Gasset,Julien Sablé,1,0,0,0,0,0,0,0,0,1,0,0,Saint-Étienne,Saint-Étienne,LIGUE_1,PERMANENT,PERMANENT,2018-01-14,2017-12-15,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Claude Puel,Ghislain Printant,1,0,0,0,0,0,0,0,0,1,0,0,Saint-Étienne,Saint-Étienne,LIGUE_1,PERMANENT,PERMANENT,2019-10-06,2019-09-25,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Julien Sablé,Claude Puel,0,0,0,0,0,0,0,0,0,0,1,1,Saint-Étienne,Saint-Étienne,LIGUE_1,INTERIM,PERMANENT,2021-12-11,2021-12-01,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+Pascal Dupraz,Julien Sablé,0,0,0,0,0,0,0,0,1,1,0,0,Saint-Étienne,Saint-Étienne,LIGUE_1,PERMANENT,INTERIM,2021-12-22,2021-12-05,0,0,0,0,1,1,LOSS,LOSS,HOME,2021,False,No-Bounce
+Graeme Jones,Steve Bruce,0,0,0,0,0,0,1,0,0,0,0,1,Newcastle Utd,Newcastle Utd,EPL,INTERIM,PERMANENT,2021-10-23,2021-10-02,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Eddie Howe,Graeme Jones,0,0,0,0,1,0,0,0,0,1,0,0,Newcastle Utd,Newcastle Utd,EPL,PERMANENT,INTERIM,2021-11-20,2021-10-30,0,0,1,0,0,1,DRAW,LOSS,HOME,2021,True,Bounce
+Thomas Doll,André Breitenreiter,0,0,0,0,0,0,0,0,1,1,0,0,Hannover 96,Hannover 96,BUNDESLIGA,PERMANENT,PERMANENT,2019-02-01,2019-01-19,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Peter Bosz,Heiko Herrlich,0,0,0,1,0,0,0,0,1,0,0,0,Leverkusen,Leverkusen,BUNDESLIGA,PERMANENT,PERMANENT,2019-01-19,2018-12-19,0,1,0,0,1,0,LOSS,WIN,HOME,2019,False,No-Bounce
+Hannes Wolf,Peter Bosz,1,0,0,0,0,0,0,0,0,1,0,0,Leverkusen,Leverkusen,BUNDESLIGA,PERMANENT,PERMANENT,2021-04-03,2021-03-14,1,0,0,0,0,1,WIN,LOSS,HOME,2021,True,Bounce
+Xabi Alonso,Gerardo Seoane,1,0,0,0,0,1,0,0,0,0,0,0,Leverkusen,Leverkusen,BUNDESLIGA,PERMANENT,PERMANENT,2022-10-08,2022-09-17,1,0,0,1,0,0,WIN,DRAW,HOME,2022,True,Bounce
+Gennaro Gattuso,Vincenzo Montella,0,0,0,0,0,0,1,0,0,0,0,1,Milan,Milan,SERIE_A,PERMANENT,PERMANENT,2017-12-03,2017-11-18,0,0,1,0,0,1,DRAW,LOSS,AWAY,2017,True,Bounce
+Stefano Pioli,Marco Giampaolo,0,0,0,0,1,0,0,0,0,1,0,0,Milan,Milan,SERIE_A,PERMANENT,PERMANENT,2019-10-20,2019-09-29,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Claudio Ranieri,Slaviša Jokanović,1,0,0,0,0,0,0,0,0,0,0,1,Fulham,Fulham,EPL,PERMANENT,PERMANENT,2018-11-24,2018-11-05,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Scott Parker,Claudio Ranieri,0,0,0,0,0,0,0,0,1,0,0,1,Fulham,Fulham,EPL,PERMANENT,PERMANENT,2019-03-03,2019-02-22,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Javier Calleja,Fran Escribá,1,0,0,0,0,1,0,0,0,0,0,0,Villarreal,Villarreal,LALIGA,PERMANENT,PERMANENT,2017-10-01,2017-09-21,1,0,0,1,0,0,WIN,DRAW,HOME,2017,True,Bounce
+Luis García,Javier Calleja,0,0,0,0,0,0,1,0,0,0,0,1,Villarreal,Villarreal,LALIGA,PERMANENT,PERMANENT,2018-12-16,2018-12-02,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Javier Calleja,Luis García,0,0,0,0,1,1,0,0,0,0,0,0,Villarreal,Villarreal,LALIGA,PERMANENT,PERMANENT,2019-02-03,2019-01-20,0,0,1,1,0,0,DRAW,DRAW,HOME,2019,False,No-Bounce
+Quique Setién,Unai Emery,0,0,0,0,0,0,0,0,0,0,1,1,Villarreal,Villarreal,LALIGA,PERMANENT,PERMANENT,2022-10-30,2022-10-20,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Romain Pitau,Olivier Dall’Oglio,0,0,0,0,0,0,0,0,1,1,0,0,Montpellier,Montpellier,LIGUE_1,PERMANENT,PERMANENT,2022-10-22,2022-10-09,0,0,0,0,1,1,LOSS,LOSS,HOME,2022,False,No-Bounce
+Michel Der Zakarian,Romain Pitau,1,0,0,0,0,0,0,0,0,1,0,0,Montpellier,Montpellier,LIGUE_1,PERMANENT,PERMANENT,2023-02-12,2023-02-01,1,0,0,0,0,1,WIN,LOSS,HOME,2023,True,Bounce
+Florian Kohfeldt,Alexander Nouri,0,0,0,0,0,0,0,1,0,0,1,0,Werder Bremen,Werder Bremen,BUNDESLIGA,PERMANENT,PERMANENT,2017-11-03,2017-10-22,0,0,0,1,1,0,LOSS,DRAW,AWAY,2017,False,No-Bounce
+Thomas Schaaf,Florian Kohfeldt,0,0,0,0,0,1,0,0,1,0,0,0,Werder Bremen,Werder Bremen,BUNDESLIGA,INTERIM,PERMANENT,2021-05-22,2021-05-08,0,0,0,1,1,0,LOSS,DRAW,HOME,2021,False,No-Bounce
+Heiko Butscher,Thomas Reis,0,0,0,0,1,0,0,0,0,1,0,0,Bochum,Bochum,BUNDESLIGA,INTERIM,PERMANENT,2022-09-18,2022-09-03,0,0,1,0,0,1,DRAW,LOSS,HOME,2022,True,Bounce
+Thomas Letsch,Heiko Butscher,0,0,0,0,0,0,0,0,0,0,1,1,Bochum,Bochum,BUNDESLIGA,PERMANENT,INTERIM,2022-10-01,2022-09-10,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Claudio Ranieri,Eusebio Di Francesco,0,0,0,0,1,0,0,0,0,1,0,0,Sampdoria,Sampdoria,SERIE_A,PERMANENT,PERMANENT,2019-10-20,2019-09-28,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Marco Giampaolo,Roberto D'Aversa,0,0,0,0,0,0,0,0,0,0,1,1,Sampdoria,Sampdoria,SERIE_A,PERMANENT,PERMANENT,2022-01-23,2022-01-09,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Dejan Stanković,Marco Giampaolo,0,0,0,0,0,0,1,0,0,0,0,1,Sampdoria,Sampdoria,SERIE_A,PERMANENT,PERMANENT,2022-10-08,2022-09-17,0,0,1,0,0,1,DRAW,LOSS,AWAY,2022,True,Bounce
+Sylvain Didot,Antoine Kombouare,0,0,0,0,0,1,0,0,1,0,0,0,Guingamp,Guingamp,LIGUE_1,INTERIM,PERMANENT,2018-11-10,2018-10-27,0,0,0,1,1,0,LOSS,DRAW,HOME,2018,False,No-Bounce
+Jocelyn Gourvennec,Sylvain Didot,0,0,0,0,0,0,0,0,0,0,1,1,Guingamp,Guingamp,LIGUE_1,PERMANENT,INTERIM,2018-11-24,2018-11-04,0,0,0,0,1,1,LOSS,LOSS,AWAY,2018,False,No-Bounce
+Fernando Da Cruz,Marcelo Bielsa,0,1,0,0,0,0,0,0,0,0,1,0,Lille,Lille,LIGUE_1,PERMANENT,PERMANENT,2017-11-25,2017-11-17,0,1,0,0,1,0,LOSS,WIN,AWAY,2017,False,No-Bounce
+Christophe Galtier,Fernando Da Cruz,0,0,1,0,0,0,0,0,0,0,0,1,Lille,Lille,LIGUE_1,PERMANENT,PERMANENT,2018-01-13,2017-12-16,1,0,0,0,0,1,WIN,LOSS,AWAY,2018,True,Bounce
+Quique Setién,Ernesto Valverde,1,1,0,0,0,0,0,0,0,0,0,0,Barcelona,Barcelona,LALIGA,PERMANENT,PERMANENT,2020-01-19,2019-12-21,1,1,0,0,0,0,WIN,WIN,HOME,2020,False,No-Bounce
+Sergi Barjuán,Ronald Koeman,0,0,0,0,1,0,0,0,0,1,0,0,Barcelona,Barcelona,LALIGA,INTERIM,PERMANENT,2021-10-30,2021-10-24,0,0,1,0,0,1,DRAW,LOSS,HOME,2021,True,Bounce
+Xavi,Sergi Barjuán,1,0,0,0,0,1,0,0,0,0,0,0,Barcelona,Barcelona,LALIGA,PERMANENT,INTERIM,2021-11-20,2021-10-30,1,0,0,1,0,0,WIN,DRAW,HOME,2021,True,Bounce
+Roberto De Zerbi,Graham Potter,0,0,0,0,0,0,1,0,0,0,0,1,Brighton,Brighton,EPL,PERMANENT,PERMANENT,2022-10-01,2022-08-30,0,0,1,0,0,1,DRAW,LOSS,AWAY,2022,True,Bounce
+Vincenzo Montella,Stefano Pioli,0,0,0,0,1,0,0,1,0,0,0,0,Fiorentina,Fiorentina,SERIE_A,PERMANENT,PERMANENT,2019-04-14,2019-04-03,0,0,1,1,0,0,DRAW,DRAW,HOME,2019,False,No-Bounce
+Giuseppe Iachini,Vincenzo Montella,0,0,0,0,0,1,1,0,0,0,0,0,Fiorentina,Fiorentina,SERIE_A,PERMANENT,PERMANENT,2020-01-06,2019-12-15,0,0,1,1,0,0,DRAW,DRAW,AWAY,2020,False,No-Bounce
+Cesare Prandelli,Giuseppe Iachini,0,0,0,0,0,0,0,0,1,0,0,1,Fiorentina,Fiorentina,SERIE_A,PERMANENT,PERMANENT,2020-11-22,2020-11-01,0,0,0,0,1,1,LOSS,LOSS,HOME,2020,False,No-Bounce
+Giuseppe Iachini,Cesare Prandelli,0,0,0,1,0,0,1,0,0,0,0,0,Fiorentina,Fiorentina,SERIE_A,PERMANENT,PERMANENT,2021-04-03,2021-03-13,0,1,1,0,0,0,DRAW,WIN,AWAY,2021,False,No-Bounce
+Luigi Di Biagio,Leonardo Semplici,0,0,0,0,0,0,0,0,0,0,1,1,SPAL,SPAL,SERIE_A,PERMANENT,PERMANENT,2020-02-15,2020-02-02,0,0,0,0,1,1,LOSS,LOSS,AWAY,2020,False,No-Bounce
+Adrian Ursea,Patrick Vieira,0,0,0,0,0,0,1,0,0,1,0,0,Nice,Nice,LIGUE_1,PERMANENT,PERMANENT,2020-12-06,2020-11-08,0,0,1,0,0,1,DRAW,LOSS,AWAY,2020,True,Bounce
+Didier Digard,Lucien Favre,1,0,0,0,0,1,0,0,0,0,0,0,Nice,Nice,LIGUE_1,PERMANENT,PERMANENT,2023-01-11,2022-12-29,1,0,0,1,0,0,WIN,DRAW,HOME,2023,True,Bounce
+Huub Stevens,Domenico Tedesco,0,0,0,0,0,0,0,0,1,1,0,0,Schalke 04,Schalke 04,BUNDESLIGA,PERMANENT,PERMANENT,2019-03-16,2019-03-02,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Manuel Baum,David Wagner,0,0,0,0,0,0,0,0,0,0,1,1,Schalke 04,Schalke 04,BUNDESLIGA,PERMANENT,PERMANENT,2020-10-03,2020-09-18,0,0,0,0,1,1,LOSS,LOSS,AWAY,2020,False,No-Bounce
+Huub Stevens,Manuel Baum,0,0,0,0,0,0,0,1,1,0,0,0,Schalke 04,Schalke 04,BUNDESLIGA,INTERIM,PERMANENT,2020-12-19,2020-12-13,0,0,0,1,1,0,LOSS,DRAW,HOME,2020,False,No-Bounce
+Christian Gross,Huub Stevens,0,0,0,0,0,0,0,0,0,1,1,0,Schalke 04,Schalke 04,BUNDESLIGA,PERMANENT,INTERIM,2021-01-02,2020-12-16,0,0,0,0,1,1,LOSS,LOSS,AWAY,2021,False,No-Bounce
+Dimitrios Grammozis,Christian Gross,0,0,0,0,1,0,0,0,0,1,0,0,Schalke 04,Schalke 04,BUNDESLIGA,PERMANENT,PERMANENT,2021-03-05,2021-02-20,0,0,1,0,0,1,DRAW,LOSS,HOME,2021,True,Bounce
+Matthias Kreutzer,Frank Kramer,0,0,0,0,0,0,0,0,0,0,1,1,Schalke 04,Schalke 04,BUNDESLIGA,INTERIM,PERMANENT,2022-10-23,2022-10-08,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Thomas Reis,Matthias Kreutzer,0,0,0,0,0,0,0,0,1,1,0,0,Schalke 04,Schalke 04,BUNDESLIGA,PERMANENT,INTERIM,2022-10-30,2022-10-14,0,0,0,0,1,1,LOSS,LOSS,HOME,2022,False,No-Bounce
+Domenico Tedesco,Jesse Marsch,1,0,0,0,0,0,0,0,0,1,0,0,RB Leipzig,RB Leipzig,BUNDESLIGA,PERMANENT,INTERIM,2021-12-11,2021-11-28,1,0,0,0,0,1,WIN,LOSS,HOME,2021,True,Bounce
+Marco Rose,Domenico Tedesco,1,1,0,0,0,0,0,0,0,0,0,0,RB Leipzig,RB Leipzig,BUNDESLIGA,PERMANENT,PERMANENT,2022-09-10,2022-08-27,1,1,0,0,0,0,WIN,WIN,HOME,2022,False,No-Bounce
+Ole Gunnar Solskjær,José Mourinho,0,1,1,0,0,0,0,0,0,0,0,0,Manchester Utd,Manchester Utd,EPL,PERMANENT,PERMANENT,2018-12-22,2018-12-08,1,1,0,0,0,0,WIN,WIN,AWAY,2018,False,No-Bounce
+Michael Carrick,Ole Gunnar Solskjær,0,0,0,0,0,0,1,0,0,1,0,0,Manchester Utd,Manchester Utd,EPL,INTERIM,PERMANENT,2021-11-28,2021-11-06,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Ralf Rangnick,Michael Carrick,1,0,0,0,0,0,0,1,0,0,0,0,Manchester Utd,Manchester Utd,EPL,PERMANENT,INTERIM,2021-12-05,2021-11-28,1,0,0,1,0,0,WIN,DRAW,HOME,2021,True,Bounce
+Javier Cabello,Luis Zubeldía,0,0,0,0,0,0,0,0,0,0,1,1,Alavés,Alavés,LALIGA,INTERIM,INTERIM,2017-09-20,2017-09-10,0,0,0,0,1,1,LOSS,LOSS,AWAY,2017,False,No-Bounce
+Giovanni De Biasi,Javier Cabello,0,0,0,0,0,0,0,0,1,1,0,0,Alavés,Alavés,LALIGA,PERMANENT,INTERIM,2017-09-23,2017-09-17,0,0,0,0,1,1,LOSS,LOSS,HOME,2017,False,No-Bounce
+Abelardo Fernández,Giovanni De Biasi,0,0,1,0,0,0,0,0,0,0,0,1,Alavés,Alavés,LALIGA,PERMANENT,PERMANENT,2017-12-04,2017-11-18,1,0,0,0,0,1,WIN,LOSS,AWAY,2017,True,Bounce
+Juan López Muñiz,Asier Garitano,0,0,0,0,0,0,0,0,0,1,1,0,Alavés,Alavés,LALIGA,INTERIM,PERMANENT,2020-07-10,2020-07-01,0,0,0,0,1,1,LOSS,LOSS,AWAY,2020,False,No-Bounce
+Abelardo Fernández,Pablo Machín,0,0,0,0,0,0,0,0,1,1,0,0,Alavés,Alavés,LALIGA,PERMANENT,PERMANENT,2021-01-19,2021-01-03,0,0,0,0,1,1,LOSS,LOSS,HOME,2021,False,No-Bounce
+Javier Calleja,Abelardo Fernández,0,0,0,0,0,0,1,0,0,0,0,1,Alavés,Alavés,LALIGA,PERMANENT,PERMANENT,2021-04-10,2021-03-21,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Mendilibar,Javier Calleja,0,0,0,0,1,0,0,0,0,0,0,1,Alavés,Alavés,LALIGA,PERMANENT,PERMANENT,2022-01-02,2021-12-18,0,0,1,0,0,1,DRAW,LOSS,HOME,2022,True,Bounce
+Julio Velázquez,Mendilibar,0,0,0,0,0,0,0,0,0,1,1,0,Alavés,Alavés,LALIGA,PERMANENT,PERMANENT,2022-04-10,2022-03-19,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Freddie Ljungberg,Unai Emery,0,0,0,0,0,0,1,0,0,0,0,1,Arsenal,Arsenal,EPL,INTERIM,PERMANENT,2019-12-01,2019-11-09,0,0,1,0,0,1,DRAW,LOSS,AWAY,2019,True,Bounce
+Mikel Arteta,Freddie Ljungberg,0,0,0,0,0,0,1,0,0,1,0,0,Arsenal,Arsenal,EPL,PERMANENT,INTERIM,2019-12-26,2019-12-15,0,0,1,0,0,1,DRAW,LOSS,AWAY,2019,True,Bounce
+Gaizka Garitano,Eduardo Berizzo,1,0,0,0,0,1,0,0,0,0,0,0,Athletic Club,Athletic Club,LALIGA,PERMANENT,PERMANENT,2018-12-10,2018-11-25,1,0,0,1,0,0,WIN,DRAW,HOME,2018,True,Bounce
+Marcelino,Gaizka Garitano,0,0,0,0,0,0,0,0,1,1,0,0,Athletic Club,Athletic Club,LALIGA,PERMANENT,PERMANENT,2021-01-06,2020-12-31,0,0,0,0,1,1,LOSS,LOSS,HOME,2021,False,No-Bounce
+Antoine Kombouare,Olivier Dall’Oglio,0,0,0,0,1,0,0,0,0,0,0,1,Dijon,Dijon,LIGUE_1,PERMANENT,PERMANENT,2019-01-13,2018-12-08,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+David Linarès,Stéphane Jobard,0,0,0,0,0,0,1,0,0,0,0,1,Dijon,Dijon,LIGUE_1,PERMANENT,PERMANENT,2020-11-08,2020-10-24,0,0,1,0,0,1,DRAW,LOSS,AWAY,2020,True,Bounce
+Gennaro Gattuso,Carlo Ancelotti,0,0,0,0,0,0,0,0,1,1,0,0,Napoli,Napoli,SERIE_A,PERMANENT,PERMANENT,2019-12-14,2019-12-01,0,0,0,0,1,1,LOSS,LOSS,HOME,2019,False,No-Bounce
+Javi Gracia,Marco Silva,0,0,0,0,0,1,1,0,0,0,0,0,Watford,Watford,EPL,PERMANENT,PERMANENT,2018-01-31,2018-01-13,0,0,1,1,0,0,DRAW,DRAW,AWAY,2018,False,No-Bounce
+Quique Flores,Javi Gracia,0,0,0,0,1,0,0,0,0,1,0,0,Watford,Watford,EPL,PERMANENT,PERMANENT,2019-09-15,2019-08-24,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Hayden Mullins,Quique Flores,0,0,0,0,0,0,0,0,0,1,1,0,Watford,Watford,EPL,INTERIM,PERMANENT,2019-12-04,2019-11-23,0,0,0,0,1,1,LOSS,LOSS,AWAY,2019,False,No-Bounce
+Nigel Pearson,Hayden Mullins,0,0,0,0,1,0,0,0,0,0,0,1,Watford,Watford,EPL,PERMANENT,INTERIM,2019-12-07,2019-11-30,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Hayden Mullins,Nigel Pearson,0,1,0,0,0,0,0,0,1,0,0,0,Watford,Watford,EPL,INTERIM,PERMANENT,2020-07-21,2020-07-11,0,1,0,0,1,0,LOSS,WIN,HOME,2020,False,No-Bounce
+Claudio Ranieri,Xisco,0,0,0,0,0,1,0,0,1,0,0,0,Watford,Watford,EPL,PERMANENT,PERMANENT,2021-10-16,2021-09-25,0,0,0,1,1,0,LOSS,DRAW,HOME,2021,False,No-Bounce
+Roy Hodgson,Claudio Ranieri,0,0,0,0,0,0,1,1,0,0,0,0,Watford,Watford,EPL,PERMANENT,PERMANENT,2022-02-05,2022-01-15,0,0,1,1,0,0,DRAW,DRAW,AWAY,2022,False,No-Bounce
+José González,Míchel,0,0,0,0,0,0,1,0,0,1,0,0,Málaga,Málaga,LALIGA,PERMANENT,INTERIM,2018-01-22,2018-01-08,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Martin Schmidt,Andries Jonker,0,0,0,0,1,1,0,0,0,0,0,0,Wolfsburg,Wolfsburg,BUNDESLIGA,PERMANENT,INTERIM,2017-09-19,2017-09-09,0,0,1,1,0,0,DRAW,DRAW,HOME,2017,False,No-Bounce
+Bruno Labbadia,Martin Schmidt,0,0,0,0,0,0,1,0,0,0,0,1,Wolfsburg,Wolfsburg,BUNDESLIGA,PERMANENT,PERMANENT,2018-02-23,2018-02-11,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Florian Kohfeldt,Mark van Bommel,0,0,1,0,0,0,0,0,0,0,0,1,Wolfsburg,Wolfsburg,BUNDESLIGA,PERMANENT,PERMANENT,2021-10-30,2021-10-16,1,0,0,0,0,1,WIN,LOSS,AWAY,2021,True,Bounce
+Paco,Michel,0,0,0,0,1,0,0,0,0,0,0,1,Rayo Vallecano,Rayo Vallecano,LALIGA,PERMANENT,PERMANENT,2019-03-31,2019-03-09,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Paco López,Juan López Muñiz,0,0,1,0,0,0,0,0,0,0,0,1,Levante,Levante,LALIGA,PERMANENT,PERMANENT,2018-03-10,2018-03-01,1,0,0,0,0,1,WIN,LOSS,AWAY,2018,True,Bounce
+Javier Pereira,Paco López,0,0,0,0,1,0,0,0,0,0,0,1,Levante,Levante,LALIGA,PERMANENT,PERMANENT,2021-10-16,2021-09-26,0,0,1,0,0,1,DRAW,LOSS,HOME,2021,True,Bounce
+Alessio Lisci,Javier Pereira,0,0,0,0,1,1,0,0,0,0,0,0,Levante,Levante,LALIGA,PERMANENT,PERMANENT,2021-12-05,2021-11-19,0,0,1,1,0,0,DRAW,DRAW,HOME,2021,False,No-Bounce
+Claudio Ranieri,Eusebio Di Francesco,1,0,0,1,0,0,0,0,0,0,0,0,Roma,Roma,SERIE_A,PERMANENT,PERMANENT,2019-03-11,2019-02-23,1,1,0,0,0,0,WIN,WIN,HOME,2019,False,No-Bounce
+Raffaele Palladino,Giovanni Stroppa,1,0,0,0,0,0,0,0,0,1,0,0,Monza,Monza,SERIE_A,PERMANENT,PERMANENT,2022-09-18,2022-09-05,1,0,0,0,0,1,WIN,LOSS,HOME,2022,True,Bounce
+Bernd Hollerbach,Markus Gisdol,0,0,0,0,0,0,1,0,0,0,0,1,Hamburger SV,Hamburger SV,BUNDESLIGA,PERMANENT,PERMANENT,2018-01-27,2018-01-13,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Christian Titz,Bernd Hollerbach,0,0,0,0,0,1,0,0,1,0,0,0,Hamburger SV,Hamburger SV,BUNDESLIGA,PERMANENT,PERMANENT,2018-03-17,2018-03-03,0,0,0,1,1,0,LOSS,DRAW,HOME,2018,False,No-Bounce
+Bruno Irles,Laurent Batlles,0,0,0,0,0,0,0,0,1,1,0,0,Troyes,Troyes,LIGUE_1,PERMANENT,PERMANENT,2022-01-16,2021-12-12,0,0,0,0,1,1,LOSS,LOSS,HOME,2022,False,No-Bounce
+Claude Robin,Bruno Irles,0,0,0,0,0,0,0,0,0,0,1,1,Troyes,Troyes,LIGUE_1,INTERIM,PERMANENT,2022-11-13,2022-10-29,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Patrick Kisnorbo,Claude Robin,0,0,0,0,1,1,0,0,0,0,0,0,Troyes,Troyes,LIGUE_1,PERMANENT,INTERIM,2022-12-28,2022-11-04,0,0,1,1,0,0,DRAW,DRAW,HOME,2022,False,No-Bounce
+Eric Bedouet,Jocelyn Gourvennec,0,0,1,1,0,0,0,0,0,0,0,0,Bordeaux,Bordeaux,LIGUE_1,INTERIM,PERMANENT,2018-01-20,2018-01-13,1,1,0,0,0,0,WIN,WIN,AWAY,2018,False,No-Bounce
+Gus Poyet,Eric Bedouet,1,0,0,0,0,0,0,0,0,1,0,0,Bordeaux,Bordeaux,LIGUE_1,PERMANENT,INTERIM,2018-01-28,2018-01-16,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Eric Bedouet,Gus Poyet,0,1,0,0,1,0,0,0,0,0,0,0,Bordeaux,Bordeaux,LIGUE_1,PERMANENT,INTERIM,2018-09-16,2018-08-26,0,1,1,0,0,0,DRAW,WIN,HOME,2018,False,No-Bounce
+Paulo Sousa,Eric Bedouet,0,0,0,0,1,0,0,0,0,1,0,0,Bordeaux,Bordeaux,LIGUE_1,PERMANENT,PERMANENT,2019-03-17,2019-03-05,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Jaroslav Plašil,Vladimir Petković,0,1,0,0,0,0,0,0,0,0,1,0,Bordeaux,Bordeaux,LIGUE_1,INTERIM,PERMANENT,2022-02-13,2022-01-23,0,1,0,0,1,0,LOSS,WIN,AWAY,2022,False,No-Bounce
+David Guion,Jaroslav Plašil,0,0,0,0,1,0,0,0,0,0,0,1,Bordeaux,Bordeaux,LIGUE_1,PERMANENT,INTERIM,2022-02-20,2022-02-06,0,0,1,0,0,1,DRAW,LOSS,HOME,2022,True,Bounce
+Roberto De Zerbi,Marco Baroni,0,0,0,0,0,0,0,0,0,0,1,1,Benevento,Benevento,SERIE_A,PERMANENT,PERMANENT,2017-10-25,2017-10-16,0,0,0,0,1,1,LOSS,LOSS,AWAY,2017,False,No-Bounce
+Roy Hodgson,Frank de Boer,0,0,0,0,0,0,0,0,1,1,0,0,Crystal Palace,Crystal Palace,EPL,PERMANENT,INTERIM,2017-09-16,2017-08-26,0,0,0,0,1,1,LOSS,LOSS,HOME,2017,False,No-Bounce
+Paddy McCarthy,Patrick Vieira,0,0,0,0,0,0,0,0,0,1,1,0,Crystal Palace,Crystal Palace,EPL,INTERIM,PERMANENT,2023-03-19,2023-03-11,0,0,0,0,1,1,LOSS,LOSS,AWAY,2023,False,No-Bounce
+Roy Hodgson,Paddy McCarthy,1,0,0,0,0,0,0,0,0,0,0,1,Crystal Palace,Crystal Palace,EPL,PERMANENT,INTERIM,2023-04-01,2023-03-15,1,0,0,0,0,1,WIN,LOSS,HOME,2023,True,Bounce
+Mathieu Le Scornet,Julien Stéphan,0,0,0,0,1,0,0,0,0,0,0,1,Strasbourg,Strasbourg,LIGUE_1,PERMANENT,PERMANENT,2023-01-11,2022-12-28,0,0,1,0,0,1,DRAW,LOSS,HOME,2023,True,Bounce
+Frédéric Antonetti,Mathieu Le Scornet,1,1,0,0,0,0,0,0,0,0,0,0,Strasbourg,Strasbourg,LIGUE_1,PERMANENT,PERMANENT,2023-02-18,2023-02-05,1,1,0,0,0,0,WIN,WIN,HOME,2023,False,No-Bounce
+Paulo Pezzolano,Pacheta,0,0,0,0,1,0,0,0,0,1,0,0,Valladolid,Valladolid,LALIGA,PERMANENT,PERMANENT,2023-04-09,2023-03-17,0,0,1,0,0,1,DRAW,LOSS,HOME,2023,True,Bounce
+Roberto D'Aversa,Fabio Liverani,0,0,0,0,0,0,0,0,1,1,0,0,Parma,Parma,SERIE_A,PERMANENT,PERMANENT,2021-01-10,2021-01-03,0,0,0,0,1,1,LOSS,LOSS,HOME,2021,False,No-Bounce
+Quique Flores,Míchel,0,0,0,0,0,0,1,0,0,0,0,1,Getafe,Getafe,LALIGA,PERMANENT,PERMANENT,2021-10-16,2021-09-26,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Pepe Bordalás,Quique Flores,0,0,0,0,0,0,0,0,0,0,1,1,Getafe,Getafe,LALIGA,PERMANENT,PERMANENT,2023-04-30,2023-04-23,0,0,0,0,1,1,LOSS,LOSS,AWAY,2023,False,No-Bounce
+Giuseppe Iachini,Cristian Bucchi,0,0,0,1,0,0,0,0,0,0,1,0,Sassuolo,Sassuolo,SERIE_A,PERMANENT,PERMANENT,2017-12-03,2017-11-19,0,1,0,0,1,0,LOSS,WIN,AWAY,2017,False,No-Bounce
+David Unsworth,Ronald Koeman,0,0,0,0,0,0,0,1,0,0,1,0,Everton,Everton,EPL,INTERIM,PERMANENT,2017-10-29,2017-10-15,0,0,0,1,1,0,LOSS,DRAW,AWAY,2017,False,No-Bounce
+Sam Allardyce,David Unsworth,1,0,0,0,0,0,0,0,0,0,0,1,Everton,Everton,EPL,PERMANENT,INTERIM,2017-12-02,2017-11-26,1,0,0,0,0,1,WIN,LOSS,HOME,2017,True,Bounce
+Duncan Ferguson,Marco Silva,1,0,0,0,0,0,0,0,0,0,0,1,Everton,Everton,EPL,INTERIM,PERMANENT,2019-12-07,2019-12-01,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Carlo Ancelotti,Duncan Ferguson,1,0,0,0,0,0,0,1,0,0,0,0,Everton,Everton,EPL,PERMANENT,INTERIM,2019-12-26,2019-12-15,1,0,0,1,0,0,WIN,DRAW,HOME,2019,True,Bounce
+Duncan Ferguson,Rafael Benítez,0,0,0,0,0,0,0,0,1,1,0,0,Everton,Everton,EPL,INTERIM,PERMANENT,2022-01-22,2022-01-02,0,0,0,0,1,1,LOSS,LOSS,HOME,2022,False,No-Bounce
+Frank Lampard,Duncan Ferguson,0,0,0,0,0,0,0,0,0,0,1,1,Everton,Everton,EPL,PERMANENT,INTERIM,2022-02-08,2022-01-15,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Sean Dyche,Frank Lampard,1,0,0,0,0,0,0,0,0,1,0,0,Everton,Everton,EPL,PERMANENT,PERMANENT,2023-02-04,2023-01-14,1,0,0,0,0,1,WIN,LOSS,HOME,2023,True,Bounce
+Matthias Kaltenbach,Alfred Schreuder,0,0,0,1,0,0,0,0,1,0,0,0,Hoffenheim,Hoffenheim,BUNDESLIGA,INTERIM,PERMANENT,2020-06-12,2020-05-30,0,1,0,0,1,0,LOSS,WIN,HOME,2020,False,No-Bounce
+Pellegrino Matarazzo,André Breitenreiter,0,0,0,0,0,0,0,0,1,1,0,0,Hoffenheim,Hoffenheim,BUNDESLIGA,PERMANENT,PERMANENT,2023-02-11,2023-01-28,0,0,0,0,1,1,LOSS,LOSS,HOME,2023,False,No-Bounce
+Cristóbal Parralo,Pepe Mel,0,0,1,0,0,0,0,1,0,0,0,0,La Coruña,La Coruña,LALIGA,PERMANENT,PERMANENT,2017-10-30,2017-10-15,1,0,0,1,0,0,WIN,DRAW,AWAY,2017,True,Bounce
+Clarence Seedorf,Cristóbal Parralo,0,0,0,0,0,1,0,0,1,0,0,0,La Coruña,La Coruña,LALIGA,PERMANENT,PERMANENT,2018-02-12,2018-01-27,0,0,0,1,1,0,LOSS,DRAW,HOME,2018,False,No-Bounce
+Nasser Larguet,André Villas-Boas,0,0,0,0,0,0,1,0,0,1,0,0,Marseille,Marseille,LIGUE_1,PERMANENT,PERMANENT,2021-02-03,2021-01-20,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Jorge Sampaoli,Nasser Larguet,1,0,0,0,0,1,0,0,0,0,0,0,Marseille,Marseille,LIGUE_1,PERMANENT,PERMANENT,2021-03-10,2021-02-28,1,0,0,1,0,0,WIN,DRAW,HOME,2021,True,Bounce
+Jesse Marsch,Marcelo Bielsa,0,0,0,0,0,0,0,0,0,0,1,1,Leeds United,Leeds United,EPL,PERMANENT,PERMANENT,2022-03-05,2022-02-23,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Michael Skubala,Jesse Marsch,0,0,0,0,0,1,1,0,0,0,0,0,Leeds United,Leeds United,EPL,INTERIM,PERMANENT,2023-02-08,2023-01-22,0,0,1,1,0,0,DRAW,DRAW,AWAY,2023,False,No-Bounce
+Javi Gracia,Michael Skubala,1,0,0,0,0,0,0,0,0,1,0,0,Leeds United,Leeds United,EPL,PERMANENT,INTERIM,2023-02-25,2023-02-12,1,0,0,0,0,1,WIN,LOSS,HOME,2023,True,Bounce
+Sam Allardyce,Javi Gracia,0,0,0,0,0,1,0,0,0,0,1,0,Leeds United,Leeds United,EPL,INTERIM,PERMANENT,2023-05-06,2023-04-25,0,0,0,1,1,0,LOSS,DRAW,AWAY,2023,False,No-Bounce
+Abdelaziz Bouhazama,Gérald Baticle,0,0,0,0,0,0,0,0,0,1,1,0,Angers,Angers,LIGUE_1,PERMANENT,PERMANENT,2022-12-28,2022-11-05,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Alexandre Dujeux,Abdelaziz Bouhazama,0,0,0,0,0,0,0,0,1,1,0,0,Angers,Angers,LIGUE_1,PERMANENT,PERMANENT,2023-03-12,2023-02-25,0,0,0,0,1,1,LOSS,LOSS,HOME,2023,False,No-Bounce
+Pascal Plancque,Jérôme Arpinon,0,0,0,0,0,0,0,0,1,0,0,1,Nîmes,Nîmes,LIGUE_1,PERMANENT,PERMANENT,2021-02-07,2021-01-31,0,0,0,0,1,1,LOSS,LOSS,HOME,2021,False,No-Bounce
+Boris Schommers,Michael Köllner,0,0,0,0,1,1,0,0,0,0,0,0,Nürnberg,Nürnberg,BUNDESLIGA,PERMANENT,PERMANENT,2019-02-18,2019-02-02,0,0,1,1,0,0,DRAW,DRAW,HOME,2019,False,No-Bounce
+Tayfun Korkut,Hannes Wolf,0,0,0,0,0,0,1,0,0,0,0,1,Stuttgart,Stuttgart,BUNDESLIGA,PERMANENT,PERMANENT,2018-02-03,2018-01-20,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Markus Weinzierl,Tayfun Korkut,0,1,0,0,0,0,0,0,1,0,0,0,Stuttgart,Stuttgart,BUNDESLIGA,PERMANENT,PERMANENT,2018-10-20,2018-09-29,0,1,0,0,1,0,LOSS,WIN,HOME,2018,False,No-Bounce
+Nico Willig,Markus Weinzierl,1,0,0,0,0,0,0,0,0,1,0,0,Stuttgart,Stuttgart,BUNDESLIGA,INTERIM,PERMANENT,2019-04-27,2019-04-13,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Michael Wimmer,Pellegrino Matarazzo,1,0,0,0,0,0,0,0,0,0,0,1,Stuttgart,Stuttgart,BUNDESLIGA,PERMANENT,INTERIM,2022-10-15,2022-10-01,1,0,0,0,0,1,WIN,LOSS,HOME,2022,True,Bounce
+Bruno Labbadia,Michael Wimmer,0,1,0,0,1,0,0,0,0,0,0,0,Stuttgart,Stuttgart,BUNDESLIGA,PERMANENT,PERMANENT,2023-01-21,2022-11-08,0,1,1,0,0,0,DRAW,WIN,HOME,2023,False,No-Bounce
+Sebastian Hoeneß,Bruno Labbadia,0,0,1,0,0,0,0,0,0,1,0,0,Stuttgart,Stuttgart,BUNDESLIGA,PERMANENT,PERMANENT,2023-04-09,2023-03-18,1,0,0,0,0,1,WIN,LOSS,AWAY,2023,True,Bounce
+Vahid Halilhodžić,Miguel Cardoso,0,0,0,0,0,0,0,0,0,1,1,0,Nantes,Nantes,LIGUE_1,PERMANENT,PERMANENT,2018-10-07,2018-09-25,0,0,0,0,1,1,LOSS,LOSS,AWAY,2018,False,No-Bounce
+Patrick Collot,Christian Gourcuff,0,0,0,0,1,0,0,0,0,0,0,1,Nantes,Nantes,LIGUE_1,INTERIM,PERMANENT,2020-12-13,2020-11-28,0,0,1,0,0,1,DRAW,LOSS,HOME,2020,True,Bounce
+Raymond Domenech,Patrick Collot,0,0,0,0,1,1,0,0,0,0,0,0,Nantes,Nantes,LIGUE_1,PERMANENT,INTERIM,2021-01-06,2020-12-20,0,0,1,1,0,0,DRAW,DRAW,HOME,2021,False,No-Bounce
+Antoine Kombouare,Raymond Domenech,0,0,1,0,0,0,0,1,0,0,0,0,Nantes,Nantes,LIGUE_1,PERMANENT,PERMANENT,2021-02-14,2021-02-03,1,0,0,1,0,0,WIN,DRAW,AWAY,2021,True,Bounce
+Antoine Kombouaré,Antoine Kombouare,0,0,0,0,0,0,0,0,0,0,1,1,Nantes,Nantes,LIGUE_1,PERMANENT,PERMANENT,2023-03-04,2023-02-19,0,0,0,0,1,1,LOSS,LOSS,AWAY,2023,False,No-Bounce
+Pierre Aristouy,Antoine Kombouaré,0,0,0,0,0,0,1,0,0,0,0,1,Nantes,Nantes,LIGUE_1,INTERIM,PERMANENT,2023-05-14,2023-05-03,0,0,1,0,0,1,DRAW,LOSS,AWAY,2023,True,Bounce
+Alexis Trujillo,Rubí,1,0,0,0,0,1,0,0,0,0,0,0,Betis,Betis,LALIGA,PERMANENT,PERMANENT,2020-06-25,2020-06-15,1,0,0,1,0,0,WIN,DRAW,HOME,2020,True,Bounce
+José Mourinho,Mauricio Pochettino,0,0,1,0,0,0,0,1,0,0,0,0,Tottenham,Tottenham,EPL,PERMANENT,PERMANENT,2019-11-23,2019-11-03,1,0,0,1,0,0,WIN,DRAW,AWAY,2019,True,Bounce
+Ryan Mason,José Mourinho,1,0,0,0,0,0,0,0,0,1,0,0,Tottenham,Tottenham,EPL,PERMANENT,PERMANENT,2021-04-21,2021-04-11,1,0,0,0,0,1,WIN,LOSS,HOME,2021,True,Bounce
+Antonio Conte,Nuno Espírito Santo,0,0,0,0,0,0,1,0,0,0,0,1,Tottenham,Tottenham,EPL,PERMANENT,PERMANENT,2021-11-07,2021-10-24,0,0,1,0,0,1,DRAW,LOSS,AWAY,2021,True,Bounce
+Cristian Stellini,Antonio Conte,0,1,0,0,0,0,1,0,0,0,0,0,Tottenham,Tottenham,EPL,INTERIM,PERMANENT,2023-04-03,2023-03-11,0,1,1,0,0,0,DRAW,WIN,AWAY,2023,False,No-Bounce
+Ryan Mason,Cristian Stellini,0,0,0,0,1,0,0,0,0,1,0,0,Tottenham,Tottenham,EPL,PERMANENT,INTERIM,2023-04-27,2023-04-15,0,0,1,0,0,1,DRAW,LOSS,HOME,2023,True,Bounce
+Marco Baroni,Moreno Longo,0,0,0,0,0,0,1,0,0,0,0,1,Frosinone,Frosinone,SERIE_A,PERMANENT,PERMANENT,2018-12-22,2018-12-08,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Frank Kramer,Uwe Neuhaus,0,0,0,0,1,0,0,0,0,1,0,0,Arminia,Arminia,BUNDESLIGA,PERMANENT,PERMANENT,2021-03-07,2021-02-19,0,0,1,0,0,1,DRAW,LOSS,HOME,2021,True,Bounce
+Marco Kostmann,Frank Kramer,0,0,0,0,0,0,0,0,0,0,1,1,Arminia,Arminia,BUNDESLIGA,INTERIM,PERMANENT,2022-04-23,2022-04-09,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Fran Escribá,Jorge Almirón,1,0,0,0,0,1,0,0,0,0,0,0,Elche,Elche,LALIGA,PERMANENT,PERMANENT,2021-02-20,2021-02-06,1,0,0,1,0,0,WIN,DRAW,HOME,2021,True,Bounce
+Sergio Mantecón,Fran Escribá,0,0,0,0,0,0,1,1,0,0,0,0,Elche,Elche,LALIGA,INTERIM,PERMANENT,2021-11-29,2021-11-07,0,0,1,1,0,0,DRAW,DRAW,AWAY,2021,False,No-Bounce
+Francisco,Sergio Mantecón,1,0,0,0,0,0,0,0,0,1,0,0,Elche,Elche,LALIGA,PERMANENT,INTERIM,2021-12-05,2021-11-21,1,0,0,0,0,1,WIN,LOSS,HOME,2021,True,Bounce
+Alberto Gallego,Francisco,0,0,0,0,1,0,0,0,0,0,0,1,Elche,Elche,LALIGA,INTERIM,PERMANENT,2022-10-10,2022-09-17,0,0,1,0,0,1,DRAW,LOSS,HOME,2022,True,Bounce
+Jorge Almirón,Alberto Gallego,0,0,0,0,0,0,1,0,0,0,0,1,Elche,Elche,LALIGA,INTERIM,INTERIM,2022-10-15,2022-10-03,0,0,1,0,0,1,DRAW,LOSS,AWAY,2022,True,Bounce
+Sergio Mantecón,Jorge Almirón,0,0,0,0,0,0,0,0,1,1,0,0,Elche,Elche,LALIGA,INTERIM,INTERIM,2022-11-08,2022-10-31,0,0,0,0,1,1,LOSS,LOSS,HOME,2022,False,No-Bounce
+Pablo Machín,Sergio Mantecón,0,0,0,0,0,0,0,0,0,0,1,1,Elche,Elche,LALIGA,PERMANENT,INTERIM,2022-12-29,2022-11-05,0,0,0,0,1,1,LOSS,LOSS,AWAY,2022,False,No-Bounce
+Sebastián Becaccece,Pablo Machín,0,0,0,0,0,1,0,0,1,0,0,0,Elche,Elche,LALIGA,PERMANENT,PERMANENT,2023-04-01,2023-03-11,0,0,0,1,1,0,LOSS,DRAW,HOME,2023,False,No-Bounce
+Rubén Torrecilla,Robert Moreno,0,0,0,0,0,1,0,0,1,0,0,0,Granada,Granada,LALIGA,INTERIM,PERMANENT,2022-03-12,2022-02-28,0,0,0,1,1,0,LOSS,DRAW,HOME,2022,False,No-Bounce
+Karanka,Rubén Torrecilla,0,0,0,0,0,0,1,0,0,0,0,1,Granada,Granada,LALIGA,PERMANENT,INTERIM,2022-04-20,2022-04-08,0,0,1,0,0,1,DRAW,LOSS,AWAY,2022,True,Bounce
+Vincenzo Montella,Eduardo Berizzo,0,0,0,0,0,1,0,0,1,0,0,0,Sevilla,Sevilla,LALIGA,PERMANENT,PERMANENT,2018-01-06,2017-12-15,0,0,0,1,1,0,LOSS,DRAW,HOME,2018,False,No-Bounce
+Joaquín Caparrós,Vincenzo Montella,1,0,0,0,0,0,0,1,0,0,0,0,Sevilla,Sevilla,LALIGA,INTERIM,PERMANENT,2018-05-04,2018-04-17,1,0,0,1,0,0,WIN,DRAW,HOME,2018,True,Bounce
+Joaquín Caparrós,Pablo Machín,0,0,1,0,0,0,0,0,0,0,0,1,Sevilla,Sevilla,LALIGA,PERMANENT,PERMANENT,2019-03-17,2019-03-02,1,0,0,0,0,1,WIN,LOSS,AWAY,2019,True,Bounce
+Jorge Sampaoli,Lopetegui,0,0,0,0,1,0,0,1,0,0,0,0,Sevilla,Sevilla,LALIGA,PERMANENT,PERMANENT,2022-10-08,2022-09-18,0,0,1,1,0,0,DRAW,DRAW,HOME,2022,False,No-Bounce
+Mendilibar,Jorge Sampaoli,0,1,1,0,0,0,0,0,0,0,0,0,Sevilla,Sevilla,LALIGA,PERMANENT,PERMANENT,2023-04-01,2023-03-12,1,1,0,0,0,0,WIN,WIN,AWAY,2023,False,No-Bounce
+Igor Tudor,Eusebio Di Francesco,1,0,0,0,0,0,0,0,0,1,0,0,Hellas Verona,Hellas Verona,SERIE_A,PERMANENT,INTERIM,2021-09-19,2021-08-27,1,0,0,0,0,1,WIN,LOSS,HOME,2021,True,Bounce
+Salvatore Bocchetti,Gabriele Cioffi,0,0,0,0,0,0,0,0,1,1,0,0,Hellas Verona,Hellas Verona,SERIE_A,PERMANENT,PERMANENT,2022-10-16,2022-10-03,0,0,0,0,1,1,LOSS,LOSS,HOME,2022,False,No-Bounce
+Marco Zaffaroni,Salvatore Bocchetti,0,0,0,0,0,0,1,0,0,1,0,0,Hellas Verona,Hellas Verona,SERIE_A,PERMANENT,PERMANENT,2023-01-04,2022-11-10,0,0,1,0,0,1,DRAW,LOSS,AWAY,2023,True,Bounce
+Thierry Henry,Leonardo Jardim,0,0,0,0,0,0,0,0,0,0,1,1,Monaco,Monaco,LIGUE_1,PERMANENT,PERMANENT,2018-10-20,2018-09-28,0,0,0,0,1,1,LOSS,LOSS,AWAY,2018,False,No-Bounce
+Leonardo Jardim,Thierry Henry,0,0,0,0,0,1,0,0,0,0,1,0,Monaco,Monaco,LIGUE_1,PERMANENT,PERMANENT,2019-01-26,2019-01-16,0,0,0,1,1,0,LOSS,DRAW,AWAY,2019,False,No-Bounce
+Robert Moreno,Leonardo Jardim,0,0,0,0,0,0,1,1,0,0,0,0,Monaco,Monaco,LIGUE_1,PERMANENT,PERMANENT,2020-01-12,2019-12-14,0,0,1,1,0,0,DRAW,DRAW,AWAY,2020,False,No-Bounce
+Philippe Clement,Niko Kovač,0,0,0,0,0,0,1,0,0,0,0,1,Monaco,Monaco,LIGUE_1,PERMANENT,PERMANENT,2022-01-09,2021-12-12,0,0,1,0,0,1,DRAW,LOSS,AWAY,2022,True,Bounce
+Leon Britton,Paul Clement,0,0,0,0,1,0,0,0,0,1,0,0,Swansea City,Swansea City,EPL,INTERIM,PERMANENT,2017-12-23,2017-12-13,0,0,1,0,0,1,DRAW,LOSS,HOME,2017,True,Bounce
+Carlos Carvalhal,Leon Britton,0,0,1,0,0,1,0,0,0,0,0,0,Swansea City,Swansea City,EPL,PERMANENT,INTERIM,2017-12-30,2017-12-23,1,0,0,1,0,0,WIN,DRAW,AWAY,2017,True,Bounce
+Albert Celades,Marcelino,0,0,0,0,0,0,0,0,0,0,1,1,Valencia,Valencia,LALIGA,PERMANENT,PERMANENT,2019-09-14,2019-08-24,0,0,0,0,1,1,LOSS,LOSS,AWAY,2019,False,No-Bounce
+Voro,Albert Celades,0,0,0,0,0,0,0,0,1,0,0,1,Valencia,Valencia,LALIGA,PERMANENT,PERMANENT,2020-07-01,2020-06-25,0,0,0,0,1,1,LOSS,LOSS,HOME,2020,False,No-Bounce
+Voro,Javi Gracia,1,0,0,0,0,1,0,0,0,0,0,0,Valencia,Valencia,LALIGA,INTERIM,PERMANENT,2021-05-09,2021-04-24,1,0,0,1,0,0,WIN,DRAW,HOME,2021,True,Bounce
+Voro,Gennaro Gattuso,0,0,0,0,0,1,0,0,0,0,1,0,Valencia,Valencia,LALIGA,INTERIM,PERMANENT,2023-02-02,2023-01-23,0,0,0,1,1,0,LOSS,DRAW,AWAY,2023,False,No-Bounce
+Rubén Baraja,Voro,0,0,0,0,0,0,0,0,0,0,1,1,Valencia,Valencia,LALIGA,PERMANENT,INTERIM,2023-02-20,2023-02-05,0,0,0,0,1,1,LOSS,LOSS,AWAY,2023,False,No-Bounce
+Stefano Colantuono,Fabrizio Castori,0,1,0,0,0,0,0,0,1,0,0,0,Salernitana,Salernitana,SERIE_A,PERMANENT,PERMANENT,2021-10-23,2021-10-02,0,1,0,0,1,0,LOSS,WIN,HOME,2021,False,No-Bounce
+Davide Nicola,Stefano Colantuono,0,0,0,0,1,1,0,0,0,0,0,0,Salernitana,Salernitana,SERIE_A,PERMANENT,PERMANENT,2022-02-19,2022-02-07,0,0,1,1,0,0,DRAW,DRAW,HOME,2022,False,No-Bounce
+Paulo Sousa,Davide Nicola,0,0,0,0,0,0,0,0,1,1,0,0,Salernitana,Salernitana,SERIE_A,PERMANENT,PERMANENT,2023-02-19,2023-02-07,0,0,0,0,1,1,LOSS,LOSS,HOME,2023,False,No-Bounce
+Thomas Tuchel,Frank Lampard,0,0,0,1,1,0,0,0,0,0,0,0,Chelsea,Chelsea,EPL,PERMANENT,PERMANENT,2021-01-27,2021-01-16,0,1,1,0,0,0,DRAW,WIN,HOME,2021,False,No-Bounce
+Graham Potter,Thomas Tuchel,0,0,1,0,0,0,0,0,0,0,0,1,Chelsea,Chelsea,EPL,PERMANENT,PERMANENT,2022-10-01,2022-08-30,1,0,0,0,0,1,WIN,LOSS,AWAY,2022,True,Bounce
+Bruno,Graham Potter,0,0,0,0,1,1,0,0,0,0,0,0,Chelsea,Chelsea,EPL,INTERIM,PERMANENT,2023-04-04,2023-03-18,0,0,1,1,0,0,DRAW,DRAW,HOME,2023,False,No-Bounce
+Frank Lampard,Bruno,0,0,0,0,0,0,0,0,0,1,1,0,Chelsea,Chelsea,EPL,PERMANENT,INTERIM,2023-04-08,2023-04-01,0,0,0,0,1,1,LOSS,LOSS,AWAY,2023,False,No-Bounce
+Massimo Oddo,Luigi Delneri,0,1,0,0,0,0,0,0,1,0,0,0,Udinese,Udinese,SERIE_A,PERMANENT,PERMANENT,2017-11-26,2017-10-29,0,1,0,0,1,0,LOSS,WIN,HOME,2017,False,No-Bounce
+Igor Tudor,Massimo Oddo,0,0,0,0,0,0,1,0,0,0,0,1,Udinese,Udinese,SERIE_A,INTERIM,PERMANENT,2018-04-29,2018-04-18,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Davide  Nicola,Julio Velázquez,1,0,0,0,0,0,0,0,0,1,0,0,Udinese,Udinese,SERIE_A,INTERIM,PERMANENT,2018-11-24,2018-11-04,1,0,0,0,0,1,WIN,LOSS,HOME,2018,True,Bounce
+Davide Nicola,Davide  Nicola,0,0,0,0,0,0,1,0,0,0,0,1,Udinese,Udinese,SERIE_A,INTERIM,INTERIM,2018-12-26,2018-12-15,0,0,1,0,0,1,DRAW,LOSS,AWAY,2018,True,Bounce
+Davide  Nicola,Davide Nicola,0,0,0,0,1,0,0,0,0,1,0,0,Udinese,Udinese,SERIE_A,PERMANENT,INTERIM,2019-02-03,2019-01-19,0,0,1,0,0,1,DRAW,LOSS,HOME,2019,True,Bounce
+Igor Tudor,Davide  Nicola,1,0,0,0,0,0,0,0,0,0,0,1,Udinese,Udinese,SERIE_A,PERMANENT,PERMANENT,2019-03-30,2019-03-08,1,0,0,0,0,1,WIN,LOSS,HOME,2019,True,Bounce
+Luca Gotti,Igor Tudor,0,0,1,0,0,0,0,0,0,0,0,1,Udinese,Udinese,SERIE_A,PERMANENT,PERMANENT,2019-11-03,2019-10-27,1,0,0,0,0,1,WIN,LOSS,AWAY,2019,True,Bounce
+Gabriele Cioffi,Luca Gotti,0,0,0,0,1,0,0,1,0,0,0,0,Udinese,Udinese,SERIE_A,PERMANENT,PERMANENT,2021-12-11,2021-12-02,0,0,1,1,0,0,DRAW,DRAW,HOME,2021,False,No-Bounce
